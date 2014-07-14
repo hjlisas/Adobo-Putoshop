@@ -1,0 +1,47 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "UMLApplet"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "<Default>" RUNAPPLET := "<Default>" RUNDEBUG := "<Default>" PARAM := "" RUN := "UMLApplet" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "AbstractClass.java" #[EndFile]
+#[BeginFile]SOURCE := "AbstractClassPropsWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "Aggregation.java" #[EndFile]
+#[BeginFile]SOURCE := "Association.java" #[EndFile]
+#[BeginFile]SOURCE := "BiRelationPropsWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "ClassPropsWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "ClassType.java" #[EndFile]
+#[BeginFile]SOURCE := "Composition.java" #[EndFile]
+#[BeginFile]SOURCE := "ConcreteClass.java" #[EndFile]
+#[BeginFile]SOURCE := "Dependency.java" #[EndFile]
+#[BeginFile]SOURCE := "Inheritance.java" #[EndFile]
+#[BeginFile]SOURCE := "Interface.java" #[EndFile]
+#[BeginFile]SOURCE := "InterfacePropsWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "LineSegment.java" #[EndFile]
+#[BeginFile]SOURCE := "PropsWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "RelationPanel.java" #[EndFile]
+#[BeginFile]SOURCE := "Relationship.java" #[EndFile]
+#[BeginFile]SOURCE := "TabPanel.java" #[EndFile]
+#[BeginFile]SOURCE := "Type.java" #[EndFile]
+#[BeginFile]SOURCE := "UMLCanvas.java" #[EndFile]
+#[BeginFile]SOURCE := "UMLCheckbox.java" #[EndFile]
+#[BeginFile]SOURCE := "UMLFrame.java" #[EndFile]
+#[BeginFile]SOURCE := "UMLObject.java" #[EndFile]
+#[BeginFile]SOURCE := "UMLToolbar.java" #[EndFile]
+#[BeginFile]SOURCE := "UniRelationPropsWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "Box.java" #[EndFile]
+#[BeginFile]SOURCE := "Adobo.java" #[EndFile]
+#[EndFolder]
